@@ -28,9 +28,21 @@ Lien discord du projet : https://discord.gg/euf3ZHjA
 
 [Wiki du projet](https://github.com/AtypiqueOrganization/AtypiqueDocumentation/wiki)
 
+[Comment écrire un document](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
 ## Projet en cours
 
 Trouver le nom de l'application : 
 
 [Nom de l App](communication/nom_de_l_application.md)
+
+## Spécifications Fonctionnelles :
+
+[Liste des spécifications Fonctionnelles](specifications-fonctionnelles/index.md)
+
+
+## Spécifications Techniques :
+
+[Liste des spécifications techniques](specifications-techniques/index.md
+
 
