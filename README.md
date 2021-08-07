@@ -3,7 +3,7 @@ Projet de documentation concernant la création de l'application
 
 ## Wiki du projet
 
-[Wiki du projet](wiki)
+[Wiki du projet](https://github.com/AtypiqueOrganization/AtypiqueDocumentation/wiki)
 
 ## Projet en cours
 
