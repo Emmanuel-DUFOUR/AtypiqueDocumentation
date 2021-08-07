@@ -18,6 +18,8 @@ Dans un second temps, si des retombées financières devaient être envisagées,
 
 Toute personne souhaitant participer gracieusement à l’élaboration du projet.
 
+# Liens utiles
+
 ## Discord
 
 Lien discord du projet : https://discord.gg/euf3ZHjA
