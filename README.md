@@ -43,6 +43,6 @@ Trouver le nom de l'application :
 
 ## Spécifications Techniques :
 
-[Liste des spécifications techniques](specifications-techniques/index.md
+[Liste des spécifications techniques](specifications-techniques/index.md)
 
 
